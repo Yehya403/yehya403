@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently interested in **Mobile App Development and Backend Development and Backend Development and Cyber Security**
+- 🔭 I’m currently interested in **Mobile App Development and Backend Development and Cyber Security**
 
 - 🌱 I’m currently learning **Android App Development and Backend Development(Node.js)**
 
