@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Yehya Gamal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehya403&label=Profile%20views&color=0e75b6&style=flat" alt="yehya403" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec46a73424b2810beef85909f84c79252f442f748698f3c9cc4445d65fae4de0/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966">
 
 
 - 🔭 I’m currently interested in **Mobile App Development and Backend Development and Cyber Security**
