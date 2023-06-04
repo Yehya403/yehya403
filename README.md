@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ec46a73424b2810beef85909f84c79252f442f748698f3c9cc4445d65fae4de0/68747470733a2f2f656e6163746573657276696365732e636f6d2f77702d636f6e74656e742f7468656d65732f7477656e74797477656e74792f696d616765732f686972652d646576656c6f7065722f616e696d6174696f6e5f3530305f6c347a63396a35672e676966">
 
 
-- 🔭 I’m currently interested in **Mobile App Development and Backend Development and Cyber Security**
+- 🔭 I’m currently interested in **Mobile App Development and Backend Development**
 
 - 🌱 I’m currently learning **Android App Development and Backend Development(Node.js)**
 
