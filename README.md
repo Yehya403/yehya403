@@ -6,15 +6,13 @@
 
 - 🔭 I’m currently interested in **Mobile App Development and Backend Development**
 
-- 🌱 I’m currently learning **Android App Development and Backend Development(Node.js)**
+- 🌱 I’m currently learning **Android App Development**
 
 - 👯 I’m looking to collaborate on **Android App Development**
 
-- 💬 Ask me about **Android App Development**
-
 - 📫 How to reach me **yehyagamal84@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing](https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing](My Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
