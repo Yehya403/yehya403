@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yehyagamal84@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing] ([My Resume](https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing))
+- 📄 Know about my experiences ([My Resume](https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
