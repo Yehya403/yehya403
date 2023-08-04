@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👯 I’m looking to collaborate on **Android App Development**
+- 👯 I’m looking to collaborate on **Android App Project**
 
 - 📫 How to reach me **yehyagamal84@gmail.com**
 
