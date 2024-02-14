@@ -1,14 +1,14 @@
-![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)
+![MasterHead](https://github.com/Yehya403/yehya403/assets/134727838/758488dc-03af-41fb-b59d-2df694e92372)
 <h1 align="center">Hi 👋, I'm Yehya Gamal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehya403&label=Profile%20views&color=0e75b6&style=flat" alt="yehya403" /> </p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 
 - 🔭 I’m currently interested in **Mobile App Development and Backend Development**
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Cross Platform App Development**
 
-- 👯 I’m looking to collaborate on **Android App Project**
+- 👯 I’m looking to collaborate on **Mobile App Project**
 
 - 📫 How to reach me **yehyagamal84@gmail.com**
 
