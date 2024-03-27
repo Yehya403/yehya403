@@ -9,17 +9,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 
-🔭 I’m currently interested in **Mobile App Development and Backend Development**
+🔭 Interested in **Mobile and Backend Development**
 
-🌱 I’m currently learning **Cross Platform App Development**
+🌱 Currently diving into **Flutter & Cross Platform App Development**
 
-👯 I’m looking to collaborate on **Mobile App Project**
+👯 Seeking collaboration on **Mobile App Projects**
 
 📄 Know about **my experiences [My Resume](https://drive.google.com/file/d/1Ejj1Ohupxr-gpn6Uj6rufbCxhWTBwO0y/view?usp=sharing)**
 
 💬 Ask me about **anything [Here](https://www.linkedin.com/in/yehyagamal/)**
 
-⚡ Fun fact **Everything's a copy of a copy of a copy**
+⚡ Fun fact: **Everything's a copy of a copy of a copy**
 
 
 <h3 align="left">🌐 Connect with me:</h3>
